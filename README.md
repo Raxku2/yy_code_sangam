@@ -13,8 +13,8 @@ It serves as the official online platform for **Code Sangam**, an open-source–
 
 ## 🔗 Live Preview
 
-👉 **[https://your-website-url-here.com](https://your-website-url-here.com)**
-(Replace with your actual deployed link)
+👉 **[Code Sangam Official Deploy](https://yyaiem.github.io/codesangam26/)**
+
 
 ---
 
